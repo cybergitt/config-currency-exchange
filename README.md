@@ -1,1 +1,1 @@
-"# currency-exchange-external-config" 
+# currency-exchange-external-config
