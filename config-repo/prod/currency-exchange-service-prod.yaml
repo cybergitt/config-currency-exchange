@@ -1,0 +1,9 @@
+server: 
+  port: 8073
+
+spring: 
+  jpa: 
+    show-sql: false
+  h2:
+    console:
+      enabled: false
