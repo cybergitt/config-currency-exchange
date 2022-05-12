@@ -7,6 +7,10 @@ spring:
   h2:
     console:
       enabled: true
+  cloud:
+    loadbalancer:
+      ribbon:
+        enabled: true
 
 currency-exchange-service:
   ribbon:
