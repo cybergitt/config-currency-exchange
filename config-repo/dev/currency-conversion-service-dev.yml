@@ -10,4 +10,4 @@ spring:
 
 currency-exchange-service:
   ribbon:
-    listOfServers: http://localhost:8071, http://localhost:8061
+    listOfServers: localhost:8071, localhost:8061
